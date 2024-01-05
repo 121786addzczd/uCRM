@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+        "hediet.vscode-drawio",
+        "mechatroner.rainbow-csv",
+        "mikestead.dotenv",
+        "MS-CEINTL.vscode-language-pack-ja",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-wsl",
+        "sissel.shopify-liquid",
+        "oderwat.indent-rainbow",
+        "mhutchie.git-graph",
+        "Vue.volar",
+        "bradlc.vscode-tailwindcss",
+        "onecentlin.laravel-blade",
+        "gerane.Theme-Dark-Dracula",
+        "fabiospampinato.vscode-highlight",
+        "bmewburn.vscode-intelephense-client",
+        "onecentlin.laravel5-snippets",
+        "formulahendry.auto-rename-tag",
+        "esbenp.prettier-vscode",
+    ]
+}

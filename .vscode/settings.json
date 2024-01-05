@@ -1,0 +1,34 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#1391807b",
+        "tab.activeForeground": "#dfe16a",
+        "tab.inactiveBackground": "#000000",
+        "tab.inactiveForeground": "#ffffff",
+        "statusBar.background": "#077009",
+        "statusBar.foreground": "#ffffff",
+        "statusBarItem.hoverBackground": "#077009",
+        "titleBar.activeBackground": "#077009",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveBackground": "#077009",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "editor.formatOnSave": true, // 保存時にコードフォーマットを自動的に実行する
+    "editor.minimap.enabled": false, // ミニマップを非表示にする
+    "editor.renderControlCharacters": true, // 制御文字を表示する
+    "editor.suggestSelection": "first", // サジェスト一覧の初期表示項目設定
+    "breadcrumbs.enabled": true, // ファイルのパンくずリストを表示する
+    "files.insertFinalNewline": true, // ファイルの末尾を改行で終わらせる
+    "editor.fontFamily": "'Fira Code', Hasklig, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true, // 合字を有効化
+    "editor.renderLineHighlight": "all", // 選択行の行番号をハイライトする
+    "editor.cursorBlinking": "smooth", // カーソルが滑らかに点滅するように
+    "editor.cursorSmoothCaretAnimation": "on", // カーソルの点滅をアニメーション表示する
+    "files.autoGuessEncoding": true, // ファイルの自動エンコードを実施
+    "window.zoomLevel": -1, // 画面全体の表示サイズはデフォルトより小さく
+    "editor.bracketPairColorization.enabled": true, // 括弧の対応を色付ける
+    "workbench.editor.wrapTabs": true, // タブを多段表示にする
+    "editor.renderWhitespace": "all", // 半角スペース可視化
+    "editor.mouseWheelZoom": true, // ctrキー押しながらマウスホイール使用してフォントズーム
+    "hediet.vscode-drawio.theme": "Kennedy",
+    "files.eol": "\n",
+}

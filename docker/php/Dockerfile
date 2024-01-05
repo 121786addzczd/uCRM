@@ -1,5 +1,8 @@
 FROM php:8.2-fpm
 
+# vite用
+EXPOSE 5173
+
 COPY php.ini /usr/local/etc/php/
 
 # Package & Library install
